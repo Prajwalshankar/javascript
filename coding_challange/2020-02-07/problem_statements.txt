@@ -1,0 +1,10 @@
+1.Given n, draw a triangle of height n which looks like this:
+For n = 5, print like this.
+    *
+   ***
+  *****
+ *******
+*********
+2.  Given a number check if it prime or not.
+3. Given a file print the number of times each of the characters present repeated.
+4. Given 2 consecutive elements of an AP,  print the nth number
